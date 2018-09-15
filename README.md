@@ -1,6 +1,5 @@
 # chatserver
 A simple chatserver in golang
-This is a basic chat server.
 The chat server runs on http://localhost:8081 and supports the following REST API:
 
  1. GET /messages
